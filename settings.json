@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "easy0.aternos",
+    "ip": "easy0.aternos.me",
     "port": 58750,
     "version": "1.21.11",
     "try-creative": false
