@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
+    "username": "Munka_Bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
-    "version": "",
+    "ip": "easy0.aternos",
+    "port": 58750,
+    "version": "1.21.11",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "auto67bot"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,8 +31,8 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Dont kill me! im a bot if you kill me your gonna get banned!!",
+        "Kövesd jurgenpm twitchen!",
         "I like to play Minecraft!"
       ]
     },
@@ -79,7 +79,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://discord.com/api/webhooks/1481977146061754540/_hUbYCfXw5Tj9LPDf86-N4oF3Vrdhcs0ug45e6qMBOkc9z0sVDSxpHgeAj6bZR0ATIIT",
     "events": {
       "connect": true,
       "disconnect": true,
